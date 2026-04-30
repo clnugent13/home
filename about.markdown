@@ -1,18 +1,13 @@
 ---
 layout: page
-title: About
+title: About Me
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+My name is Colleen Nugent McLean and I am the Centers for Digital Scholarship Coordinator and the Project Manager of Digital Humanities Now.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+I have my PhD in World History from Northeastern University. My research focuses on colonial interaction with Islamic cultures, and how former imperial powers, specifically Britain and France, have reacted to the influx of Muslim migrants from their former colonies.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+My dissertation uses digital methods to chart the construction of modern British anti-Muslim racism, specifically the idea that Islam is inherently ‘fanatical’ and ‘violent.’ Using case studies on the 1857 Rebellion in India, 1898 Battle of Omdurman in the Sudan, and the German-Ottoman declaration of jihad during the First World War, my dissertation argues that the contours of language around Islam in the colonial period provided much of the language that influences modern debates in the late 1980s through the present. To do so, I use word embedding models on The Times of London.
 
-
-[jekyll-organization]: https://github.com/jekyll
+I have a BA in History and Political Science from Union College. I have a MA and PhD in World History from Northeastern University.
