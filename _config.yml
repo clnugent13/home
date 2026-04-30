@@ -28,7 +28,7 @@ url: "https://clnugentmclean.github.io" # the base hostname & protocol for your 
 github_username:  clnugent13
 
 # Build settings
-theme: Modernist
+theme: Minima
 plugins:
   - jekyll-feed
 
